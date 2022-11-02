@@ -1,4 +1,4 @@
-package DrakeHcProje.EmailCreation;
+package EmailCreation;
 
 import java.util.Scanner;
 
